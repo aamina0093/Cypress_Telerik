@@ -1,2 +1,3 @@
-# Shopify_Cypress
-Cypress Testing Script for Shopify
+# Telerik_Cypress
+Cypress Testing Script for Telerik
+
